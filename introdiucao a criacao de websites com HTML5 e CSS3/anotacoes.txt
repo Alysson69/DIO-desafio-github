@@ -1,0 +1,9 @@
+<!DOCTYPE html>  (tipo de arquivo)
+ <html>
+  <head> (cabeçario)
+   <meta> (meta informações: ex tipo de caracters 'charset')
+   <title> Título </title>
+  </head>
+ <body> (conteud da página)
+ </body>
+</html>
